@@ -9,6 +9,7 @@ function Navbar() {
                 <li><Link to="/idea-concept">Idee und Konzept</Link></li>
                 <li><Link to="/landi-1939">Die Landi 1939</Link></li>
                 <li><Link to="/effects">Auswirkungen</Link></li>
+                <li><Link to="/gegenwartsbezug">Gegenwartsbezug</Link></li>
             </ul>
         </nav>
     );
